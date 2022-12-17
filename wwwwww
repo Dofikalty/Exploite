@@ -1,0 +1,4 @@
+local lib = require(game.ReplicatedStorage:WaitForChild('Framework'):WaitForChild('Library'))
+for i = 1, 2 do
+lib.Message.New("🧩 Pls Equip Best Pet!")
+end
